@@ -25,7 +25,7 @@ SECRET_KEY = 'h!*0c^yl5n9g3w(ybg6fj88f2p1mfywl37(x!^g!i(a9fdd5y8'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['198.211.99.20', 'snaplifescienceswebapp.azurewebsites.net', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['198.211.99.20', 'snaplifesciences.azurewebsites.net', 'localhost', '127.0.0.1']
 
 
 # Application definition
